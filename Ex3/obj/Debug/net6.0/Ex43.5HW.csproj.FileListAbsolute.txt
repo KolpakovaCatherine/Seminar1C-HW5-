@@ -1,0 +1,15 @@
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/obj/Debug/net6.0/Ex43.5HW.csproj.AssemblyReference.cache
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/obj/Debug/net6.0/Ex43.5HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/obj/Debug/net6.0/Ex43.5HW.AssemblyInfoInputs.cache
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/obj/Debug/net6.0/Ex43.5HW.AssemblyInfo.cs
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/obj/Debug/net6.0/Ex43.5HW.csproj.CoreCompileInputs.cache
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/bin/Debug/net6.0/Ex43.5HW
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/bin/Debug/net6.0/Ex43.5HW.deps.json
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/bin/Debug/net6.0/Ex43.5HW.runtimeconfig.json
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/bin/Debug/net6.0/Ex43.5HW.dll
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/bin/Debug/net6.0/Ex43.5HW.pdb
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/obj/Debug/net6.0/Ex43.5HW.dll
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/obj/Debug/net6.0/refint/Ex43.5HW.dll
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/obj/Debug/net6.0/Ex43.5HW.pdb
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/obj/Debug/net6.0/Ex43.5HW.genruntimeconfig.cache
+/Users/catherine/Desktop/QA обучение/Seminar C#/Ex43.5HW/obj/Debug/net6.0/ref/Ex43.5HW.dll
